@@ -6,3 +6,4 @@
 애플리케이션 배포 자동화와 CI/CD
 ping test
 ping test2
+ping test3
